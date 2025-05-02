@@ -46,6 +46,10 @@ button:hover {
     background-color:rgb(47, 2, 88) ;  
 }
 
+button:active {
+    opacity: 0.6;
+}
+
 input {
     padding: 10px;
     border-radius: 3px;
